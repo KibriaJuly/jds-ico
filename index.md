@@ -8,7 +8,7 @@ This component injects SVGs into the site, so that they adopt color and can be s
 ##Icon Library Installation
 Use the css file in your application HTML
 
- [editor on GitHub](https://www.julyservices.com/jds/icon/fonts.css)
+ [Basic writing and formatting syntax](https://www.julyservices.com/jds/icon/fonts.css)
   [editor on GitHub](https://cdn.jsdelivr.net/gh/kiibriia/jds-ico@main/fonts.css).
   
 ### You can add this file into your CSS File
