@@ -5,6 +5,7 @@ Place scalable vector icons anywhere in your content.
 JDS comes with its own SVG icon system and a comprehensive library, which comprises a growing number of elegant outline icons.
 This component injects SVGs into the site, so that they adopt color and can be styled with CSS.
 
+Visite: (https://www.julyservices.com/jds/icon/)
 ##Icon Library Installation
 Use the css file in your application HTML
 
@@ -17,7 +18,7 @@ Use the css file in your application HTML
 ### Using CSS Content Icons
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-(
+`
 .searchbox .box::before {
     font-size: 40px;
     color: #999;
@@ -28,7 +29,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
     font-variant: normal;
     text-transform: none;
 }
-)
+`
 **Bold** and _Italic_ and `Code` text
 
 [Link](https://www.julyservices.com/jds/icon/) and ![Image](https://www.julyservices.com/jds/icon/july-ico.jpg)
