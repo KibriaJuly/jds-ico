@@ -8,11 +8,11 @@ This component injects SVGs into the site, so that they adopt color and can be s
 ##Icon Library Installation
 Use the css file in your application HTML
 
- [Basic writing and formatting syntax](https://www.julyservices.com/jds/icon/fonts.css)
-  [editor on GitHub](https://cdn.jsdelivr.net/gh/kiibriia/jds-ico@main/fonts.css).
+ (https://www.julyservices.com/jds/icon/fonts.css)
+ (https://cdn.jsdelivr.net/gh/kiibriia/jds-ico@main/fonts.css).
   
 ### You can add this file into your CSS File
- [Jekyll](@import "https://www.julyservices.com/jds/icon/fonts.css";).
+(@import "https://www.julyservices.com/jds/icon/fonts.css";).
 
 ### Using CSS Content Icons
 
@@ -31,7 +31,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/kiibriia/jds-ico/july-ico.jpg)
+[Link](url) and ![Image](https://cdn.jsdelivr.net/gh/kiibriia/jds-ico@main/july-ico.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
