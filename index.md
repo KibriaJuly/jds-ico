@@ -6,6 +6,7 @@ JDS comes with its own SVG icon system and a comprehensive library, which compri
 This component injects SVGs into the site, so that they adopt color and can be styled with CSS.
 
 Visite: (https://www.julyservices.com/jds/icon/)
+
 ##Icon Library Installation
 Use the css file in your application HTML
 
