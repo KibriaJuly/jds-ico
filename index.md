@@ -31,7 +31,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://cdn.jsdelivr.net/gh/kiibriia/jds-ico@main/july-ico.jpg)
+[Link](url) and ![Image](https://www.julyservices.com/jds/icon/july-ico.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
