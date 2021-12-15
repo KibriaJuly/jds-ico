@@ -19,16 +19,25 @@ Use the css file in your application HTML
 ### Using CSS Content Icons
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-`
-.searchbox .box::before {
+
+`.searchbox .box::before {
+
     font-size: 40px;
+    
     color: #999;
+    
     content: '\e990';
+    
     font-family: 'julyico' !important;
+    
     font-style: normal;
+    
     font-weight: normal;
+    
     font-variant: normal;
+    
     text-transform: none;
+    
 }
 `
 **Bold** and _Italic_ and `Code` text
