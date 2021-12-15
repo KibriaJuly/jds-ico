@@ -1,25 +1,33 @@
-## Welcome to GitHub Pages
+# ICONS INSTALLATION PROCESS
 
-You can use the [editor on GitHub](https://github.com/kiibriia/jds-ico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Place scalable vector icons anywhere in your content.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+JDS comes with its own SVG icon system and a comprehensive library, which comprises a growing number of elegant outline icons.
+This component injects SVGs into the site, so that they adopt color and can be styled with CSS.
 
-### Markdown
+##Icon Library Installation
+Use the css file in your application HTML
+
+ [editor on GitHub](https://www.julyservices.com/jds/icon/fonts.css)
+  [editor on GitHub](https://cdn.jsdelivr.net/gh/kiibriia/jds-ico@main/fonts.css).
+  
+### You can add this file into your CSS File
+ [Jekyll](@import "https://www.julyservices.com/jds/icon/fonts.css";).
+
+### Using CSS Content Icons
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+.searchbox .box::before {
+    font-size: 40px;
+    color: #999;
+    content: '\e990';
+    font-family: 'julyico' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+}
 
 **Bold** and _Italic_ and `Code` text
 
