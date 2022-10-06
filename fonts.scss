@@ -12,7 +12,7 @@
   font-display: block;
 }
 
-i {
+i[class^="jdsi-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: '#{$icomoon-font-family}' !important;
   //speak: never;
@@ -219,8 +219,7 @@ i {
 }
 .jdsi-brush {
   &:before {
-    content: $jdsi-brush;     
-    color: #155c9e;
+    content: $jdsi-brush;
   }
 }
 .jdsi-bug {

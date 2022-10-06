@@ -8,7 +8,7 @@
   font-display: block;
 }
 
-i {
+i[class^="jdsi-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: "julyico" !important;
   font-style: normal;
@@ -175,7 +175,6 @@ i {
 
 .jdsi-brush:before {
   content: "";
-  color: #155c9e;
 }
 
 .jdsi-bug:before {
