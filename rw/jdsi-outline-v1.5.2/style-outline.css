@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'jdsi-outline';
+  src:  url('fonts/jdsi-outline.eot?eg5s4f');
+  src:  url('fonts/jdsi-outline.eot?eg5s4f#iefix') format('embedded-opentype'),
+    url('fonts/jdsi-outline.ttf?eg5s4f') format('truetype'),
+    url('fonts/jdsi-outline.woff?eg5s4f') format('woff'),
+    url('fonts/jdsi-outline.svg?eg5s4f#jdsi-outline') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'jdsi-outline' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.jdsi-handshak-outline-outline:before {
+  content: "\e900";
+}
+.jdsi-pen-outline-outline:before {
+  content: "\e901";
+}
+.jdsi-age-outline-outline:before {
+  content: "\e902";
+}
+.jdsi-checklist-outline-outline:before {
+  content: "\e903";
+}
+.jdsi-enroll-outline-outline:before {
+  content: "\e904";
+}
+.jdsi-finger-tap-outline-outline:before {
+  content: "\e905";
+}
+.jdsi-hand-pen-outline-outline:before {
+  content: "\e906";
+}
+.jdsi-knowledgebase-outline-outline:before {
+  content: "\e907";
+}
+.jdsi-meter-gauge-outline-outline:before {
+  content: "\e908";
+}
+.jdsi-quick-enroll-outline-outline:before {
+  content: "\e909";
+}
+.jdsi-talking-outline-outline:before {
+  content: "\e90a";
+}
+.jdsi-target-outline-outline:before {
+  content: "\e90b";
+}
+.jdsi-task-outline-outline:before {
+  content: "\e90c";
+}
+.jdsi-team-outline-outline:before {
+  content: "\e90d";
+}
